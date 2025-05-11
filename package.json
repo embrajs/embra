@@ -1,0 +1,24 @@
+{
+  "name": "embra",
+  "version": "0.0.0",
+  "description": "A reactive foundation for UI, state, and beyond.",
+  "homepage": "https://github.com/embrajs/embra#readme",
+  "bugs": {
+    "url": "https://github.com/embrajs/embra/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embrajs/embra.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "CRIMX",
+    "email": "straybugs@gmail.com",
+    "url": "https://github.com/crimx/"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
